@@ -2,6 +2,8 @@
 #### MLH kick-off hackathon Project - FellowBuddy Discord Bot
 FellowBot
 Hi there ! :wave:
+
+![Cover](Fellow Bot.gif)
 This is FellowBot - an MLH kickoff project, a bot and your friend!.
 We understand how sometimes life in particular can be difficult and since we are now MLH Fellows, we thought of making something which can be used by every fellow in the server and which makes their life easy.
 
