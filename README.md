@@ -1,7 +1,8 @@
-# FellowBuddy 🤖
+# FellowBot 🤖
 #### MLH kick-off hackathon Project - FellowBuddy Discord Bot
-FellowBot
-Hi there ! :wave:
+**FellowBot**
+
+**Hi there ! :wave:**
 
 ![Cover](Fb.gif)
 
